@@ -7,7 +7,7 @@ int main()
 	scanf("%d", &time);
 	if(time==0)
 	{
-		printf("Boo It's Midnight..");
+		printf("Boo! It's Midnight..");
 	}
 	else if(time>=1&&time<=5)
 	{
